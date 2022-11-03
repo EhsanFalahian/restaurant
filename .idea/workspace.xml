@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ace460a-368b-44ce-80f7-81337e41bb60" name="Changes" comment="push app">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/restaurant.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/.buckconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/.bundle/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/.flowconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/.prettierrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/.ruby-version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/.watchmanconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/Gemfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/__tests__/App-test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/BUCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/build_defs.bzl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/debug.keystore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/debug/java/com/restaurant/ReactNativeFlipper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/main/assets/fonts/AntDesign.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/main/assets/fonts/Entypo.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/main/assets/fonts/EvilIcons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/main/assets/fonts/Feather.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/main/assets/fonts/FontAwesome.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/main/assets/fonts/FontAwesome5_Brands.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/main/assets/fonts/FontAwesome5_Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/main/assets/fonts/FontAwesome5_Solid.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/main/assets/fonts/Fontisto.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/main/assets/fonts/Foundation.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/main/assets/fonts/Ionicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/main/assets/fonts/MaterialCommunityIcons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/main/assets/fonts/MaterialIcons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/main/assets/fonts/Octicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/main/assets/fonts/SimpleLineIcons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/main/assets/fonts/Zocial.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/main/java/com/restaurant/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/main/java/com/restaurant/MainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/main/java/com/restaurant/newarchitecture/MainApplicationReactNativeHost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/main/java/com/restaurant/newarchitecture/components/MainComponentsRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/main/java/com/restaurant/newarchitecture/modules/MainApplicationTurboModuleManagerDelegate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/main/jni/Android.mk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/main/jni/MainApplicationModuleProvider.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/main/jni/MainApplicationModuleProvider.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/main/jni/MainApplicationTurboModuleManagerDelegate.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/main/jni/MainApplicationTurboModuleManagerDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/main/jni/MainComponentsRegistry.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/main/jni/MainComponentsRegistry.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/main/jni/OnLoad.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/main/res/drawable/rn_edit_text_material.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/ios/Podfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/ios/restaurant.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/ios/restaurant.xcodeproj/xcshareddata/xcschemes/restaurant.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/ios/restaurant/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/ios/restaurant/AppDelegate.mm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/ios/restaurant/Images.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/ios/restaurant/Images.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/ios/restaurant/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/ios/restaurant/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/ios/restaurant/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/ios/restaurantTests/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/ios/restaurantTests/restaurantTests.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/jest.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/metro.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/app/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/app/assets/fonts/Montserrat-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/app/assets/fonts/Montserrat-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/app/assets/fonts/Montserrat-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/app/assets/images/Food.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/app/assets/images/bg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/app/assets/images/bg2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/app/assets/images/bg3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/app/assets/images/bread.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/app/assets/images/check-mark.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/app/assets/images/coffee.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/app/assets/images/cooking.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/app/assets/images/deals.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/app/assets/images/desserts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/app/assets/images/fast-food.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/app/assets/images/shopping-bag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/app/assets/images/soft-drink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/app/assets/images/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/app/assets/translations/en/common.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/app/assets/translations/en/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/app/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/app/navigator/AppNavigator.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/core/components/Container/Container.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/core/components/Container/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/core/components/Container/style.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/core/components/Icon/Icon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/core/components/Icon/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/core/components/Modal/Modal.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/core/components/Modal/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/core/components/Text/Text.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/core/components/Text/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/core/components/Text/style.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/core/components/UnStyledButton/UnStyledButton.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/core/components/UnStyledButton/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/core/components/UnStyledButton/style.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/core/config/YelpApi.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/core/config/axios.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/core/config/i18n.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/core/config/navigation.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/core/helpers/axios.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/core/helpers/reactQuery.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/core/store/CounterSlice.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/core/store/Store.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/core/styles/color.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/core/styles/fontSize.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/core/styles/fonts.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/core/styles/palette.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/core/styles/theme/defaultTheme.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/core/types/declaration/style.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/features/Home/api/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/features/Home/assets/translate/home.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/features/Home/components/Categories.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/features/Home/components/HeaderButton.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/features/Home/components/HeaderTabs.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/features/Home/components/RestaurantItem.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/features/Home/components/SearchBar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/features/Home/fixture/data.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/features/Home/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/features/Home/screens/About.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/features/Home/screens/Home.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/features/Home/type.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/features/OrderCompoleted/components/OrderItem.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/features/OrderCompoleted/screens/OrderCompleted.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/features/OrderCompoleted/type.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/features/RestaurantDetails/assets/translate/about.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/features/RestaurantDetails/components/About.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/features/RestaurantDetails/components/MenuItem.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/features/RestaurantDetails/components/ModalItem.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/features/RestaurantDetails/fixture/data.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/features/RestaurantDetails/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/features/RestaurantDetails/screens/RestaurantDetails.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/src/features/RestaurantDetails/type.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EzFr6qZ2V89sHvt1NI4lSuydYC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/restaurant/restaurant/android/app/src/main/assets/fonts&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;E:\\restaurant\\restaurant\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\restaurant\restaurant\android\app\src\main\assets\fonts" />
+      <recent name="E:\restaurant\restaurant\android\app\src\assets\fonts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\restaurant\restaurant\src\features\RestaurantDetails" />
+      <recent name="E:\restaurant\restaurant\android\app\src\main" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="android" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/restaurant/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="android" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.android" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ace460a-368b-44ce-80f7-81337e41bb60" name="Changes" comment="" />
+      <created>1663590702239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663590702239</updated>
+      <workItem from="1663590703538" duration="2257000" />
+      <workItem from="1663614483466" duration="701000" />
+      <workItem from="1663651662017" duration="13612000" />
+      <workItem from="1663739367474" duration="3604000" />
+      <workItem from="1663745102043" duration="5276000" />
+      <workItem from="1663957973017" duration="2664000" />
+      <workItem from="1664001056220" duration="901000" />
+      <workItem from="1664022031717" duration="2264000" />
+      <workItem from="1664045247721" duration="5126000" />
+      <workItem from="1664086418244" duration="3092000" />
+      <workItem from="1664092134986" duration="8024000" />
+      <workItem from="1664172165621" duration="6151000" />
+      <workItem from="1664188571409" duration="5312000" />
+      <workItem from="1664198008928" duration="2277000" />
+      <workItem from="1664210498838" duration="1050000" />
+      <workItem from="1664259893559" duration="9990000" />
+      <workItem from="1664308009034" duration="3236000" />
+      <workItem from="1664346837798" duration="4632000" />
+      <workItem from="1664354358553" duration="961000" />
+      <workItem from="1664432115057" duration="4664000" />
+      <workItem from="1664541694359" duration="5105000" />
+      <workItem from="1664606418651" duration="5926000" />
+      <workItem from="1664629899378" duration="664000" />
+      <workItem from="1664630610555" duration="1334000" />
+      <workItem from="1664658709126" duration="713000" />
+      <workItem from="1664659844677" duration="435000" />
+      <workItem from="1664688169810" duration="2385000" />
+      <workItem from="1664691919630" duration="4000" />
+      <workItem from="1665380972497" duration="6383000" />
+      <workItem from="1665564027862" duration="997000" />
+      <workItem from="1665641241365" duration="810000" />
+      <workItem from="1665762719071" duration="6971000" />
+      <workItem from="1665813238470" duration="3851000" />
+      <workItem from="1665995028201" duration="642000" />
+      <workItem from="1667034142777" duration="12499000" />
+      <workItem from="1667136365132" duration="5009000" />
+      <workItem from="1667236919008" duration="3766000" />
+      <workItem from="1667290450815" duration="13360000" />
+      <workItem from="1667396630179" duration="1184000" />
+      <workItem from="1667480261241" duration="746000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="push app" />
+    <option name="LAST_COMMIT_MESSAGE" value="push app" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/restaurant/metro.config.js</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/restaurant/src/features/Home/type.ts</url>
+          <line>8</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/restaurant/src/core/components/Container/Container.tsx</url>
+          <line>17</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

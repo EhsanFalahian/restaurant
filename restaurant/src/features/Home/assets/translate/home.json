@@ -1,0 +1,9 @@
+{
+  "delivery" : "Delivery",
+  "pickUp" : "Pickup",
+  "pickup" : "pick-up",
+  "softDrinks" : "Soft Drinks",
+  "bakeryItems" : "Bakery Items",
+  "fastFoods" : "Fast Foods"
+
+}
